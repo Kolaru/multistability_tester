@@ -1,1 +1,5 @@
-Necessary conditions tester
+Necessary conditions tester 
+
+Authors :
+Benoît Richard
+Xavier Richard
