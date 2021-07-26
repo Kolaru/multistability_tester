@@ -1,5 +1,3 @@
 Necessary conditions tester 
 
-Authors :
-Benoît Richard
-Xavier Richard
+Authors: Benoît Richard and Xavier Richard
